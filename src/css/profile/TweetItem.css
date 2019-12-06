@@ -1,0 +1,25 @@
+.rtozel {
+    font-size:12px;
+}
+.retweet{
+    color:green;
+}
+
+.fa-retweet:hover{
+    background-color: #DEF2EB;
+    border-radius: 10px;
+}
+.fa-comment:hover{
+    background-color:#DFEFFA ;
+    border-radius: 10px;
+    color:#42B0F4;
+
+}
+.begeni{
+    color:#E76B93;
+}
+
+.fa-heart:hover{ 
+    color:#E76B93;
+    border-radius: 10px;
+}

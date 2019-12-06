@@ -1,0 +1,47 @@
+body{
+margin: 0;
+background-color:#E6ECF0;
+
+}
+
+.main{
+    height: 300px;
+    width: 57%;
+    background-color: #E6ECF0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:70px;
+    border:1px solid lightgray;
+    border-bottom: none;
+    padding-top:2%;
+    padding-left: 7%;
+}
+.baslik{
+    font-weight: bold;
+}
+.col-md-12 input{
+    width: 42%;
+    height: 25px;
+    border: 0.5px solid rgb(211, 238, 248);
+    padding:5px;
+}
+
+.girisbuton{
+    border-radius: 20px;
+    border:none;
+    padding:6px;
+    font-size: 14px;
+    font-weight: bold;
+    width: 20%;
+    height: 100%;
+    color:white;
+    background-color: rgb(33, 153, 245);
+}
+.girisbuton:hover{
+    background-color: #006DBF;
+}
+.check , .link{
+    font-size: 14px;
+}
+
+

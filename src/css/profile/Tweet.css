@@ -1,0 +1,79 @@
+.tweetFrame {
+    width: 598px;
+    
+    display: block;
+    font-size: 15px;
+    position: relative;
+
+
+
+    border-top-color: rgb(230, 236, 240);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(230, 236, 240);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(230, 236, 240);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(230, 236, 240);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+.tweetBox {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.tweetBody {
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    flex-direction: row;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-top: 10px;
+    position: relative;
+    cursor: pointer;
+    
+}
+
+
+.photoBox{
+
+    flex-basis: 49px;
+    margin-left: 5px;
+  padding-right: 0;
+}
+
+
+.contentBox{
+
+    padding-bottom: 10px;   
+   
+    margin-right: 5px;
+}
+
+.tweetOwner{
+
+    margin-bottom: 2px;
+}
+
+.content{
+    font-weight: 400;
+    font-size: 14px;
+    font-family:  "Segoe UI", "Helvetica Neue", sans-serif;
+    line-height: 1.3125;
+    cursor: pointer;
+}
+
+.footer{
+    max-width: 425px;
+    margin-top: 10px;
+    font-size: 15px;
+}

@@ -1,0 +1,198 @@
+body{
+    margin: 0;
+    background-color:#E6ECF0;
+    
+    }
+
+.leftbox{
+    border-right: 1px solid #CCD6DD;
+}
+
+.lgroupitem{
+    border:none;
+    font-weight: bold;
+    font-size: 18px;
+    width: 75%;
+    border-radius: 20px !important;
+    margin-bottom: 1% !important;
+}
+.first{
+    width:27%;
+    border-radius: 75px;
+}
+.lgroupitem:hover{
+    background-color: #E8F5FE;
+}
+
+
+.fab.twitter, .fas.home{
+    color:#1DA1F2 !important;
+}
+.homelink{
+    color:#1DA1F2 !important;
+}
+a{
+    text-decoration: none !important;
+    color:black;
+}
+a:hover{
+    color:#1DA1F2 !important;
+   
+    
+}
+
+.greenborder{
+    border:1px solid lightgreen !important;
+}
+
+.tweetItems:hover{
+    background-color:#F5F8FA;
+}
+
+.contf{
+    padding-left: 7% !important;
+    padding-right: 7%;
+}
+
+
+.anasayfa h5{
+    font-weight: bold;
+}
+.anasayfa{
+    border-bottom: 1px solid #CCD6DD;
+}
+.middlebox{
+    border-right: 1px solid #CCD6DD;
+}
+.profilefoto{
+    width: 45px;
+    height: 45px;
+    border-radius: 40px;
+}
+
+.textarea{
+    border: none;
+    width: 100%;
+    margin-left:-22px;
+    overflow: auto;
+    outline: none;
+    box-shadow: none;
+    resize: none;
+    display: inline-block;
+    
+}
+
+::placeholder{
+    color:#CCD6DD;
+    font-size: 18px;
+}
+
+.iconmd{
+    margin-left: -20px !important;
+}
+.iconmd i{
+    color:#1DA1F2 !important;
+    width: 24px !important;
+    height: 24px !important;
+}
+.iconmd i:hover{
+    background-color:  #E8F5FE;
+}
+.tweetbutton{
+    background-color:#1DA1F2 !important;
+    border: none;
+    color:white;
+    border-radius: 25px;
+    width: 95%;
+    font-weight: bold;
+}
+.secondrow {
+    border-bottom: 1px solid #CCD6DD !important;
+}
+
+.ara{
+    width: 105%;
+    height: 1.5%;
+    min-height: 1%;
+    background-color: #E6ECF0;
+}
+
+.retweet{
+    color:green;
+}
+
+.fa-retweet:hover{
+    background-color: #DEF2EB;
+    border-radius: 10px;
+}
+.fa-comment:hover{
+    background-color:#DFEFFA ;
+    border-radius: 10px;
+    color:#42B0F4;
+
+}
+.begeni{
+    color:#E76B93;
+}
+
+.fa-heart:hover{ 
+    color:#E76B93;
+    border-radius: 10px;
+}
+
+.tweetle{
+    padding-left: 20%;
+}
+.twtbtn{
+    border:none;
+    background-color: transparent;
+    
+}
+
+
+.tweetle:hover{
+background-color:#1A91DA !important;
+}
+
+.leftList {
+    padding: 15px;
+    margin: 10px;
+    height: 45px;
+    line-height: 100%;
+}
+
+.commentlink:hover{
+    color:black !important;
+}
+
+
+.tweeticerik{
+    padding-left: 0;
+}
+.tweeticerik a{
+    font-weight: bold !important;
+    
+}
+.tweeticerik a:hover{
+    text-decoration: underline !important;
+    color: black !important;
+}
+.tweeticerik span{
+    color: #BEC7CE;
+}
+
+.tweet{
+    border-bottom: 1px solid #CCD6DD !important;
+}
+
+
+.deletebutton{
+    background-color: transparent ;
+    border:none;
+    margin-left: 30%;
+}
+
+.icons button{
+ border: none;
+ background: transparent;
+}

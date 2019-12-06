@@ -1,0 +1,33 @@
+.cont{
+    background-color: #F5F8FA;
+    width: 100%;
+    padding:15px;
+    border-radius: 15px;
+}
+.cont h3 {
+ font-weight: 900;
+}
+
+.profilefoto1{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    margin-left: -16px;
+    float: left;
+}
+
+.name{
+   float: left;
+   font-size: 12px;
+}
+.btntakip{
+    background-color:#1DA1F2 !important;
+    border: none;
+    color:white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.btntakip:hover{
+    background-color:#1A91DA !important;
+
+}

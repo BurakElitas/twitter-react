@@ -1,0 +1,65 @@
+.leftUl {
+    list-style-type: none;
+    float: left;
+    text-align: left;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+i {
+    margin-right: 15px;
+}
+
+.twtbtn{
+    border:none;
+    background-color: transparent;
+    
+}
+
+
+.leftList {
+    padding: 15px;
+    margin: 10px;
+    height: 45px;
+    line-height: 100%;
+}
+
+#leftMainpage {
+    color: #1DA1F2;
+}
+
+#tweetLeftButton {
+    border-radius: 50px;
+    border: solid 0px;
+    color: white;
+    background-color: #1DA1F2;
+    cursor: pointer;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    line-height: 100%;
+}
+
+#tweetLeftButton:hover {
+    background-color: #1A91DA;
+}
+
+.leftList:hover {
+    background-color: #E8F5FE;
+    border-radius: 50px;
+    text-align: initial;
+    color: #1DA1F2;
+    width: auto;
+}
+
+.profile {
+    color: #000000;
+    text-decoration: "none";
+}
+
+.profile :hover{
+
+    color: red;
+    text-decoration: none;
+}

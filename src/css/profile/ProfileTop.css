@@ -1,0 +1,41 @@
+.headerText {
+    list-style-type: none;
+    font-weight: 900;
+    cursor: pointer;
+    margin-top: 15px;
+    font-size: 19px;
+    font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+    
+}
+
+.headerIcon {
+    color: #1DA1F2;
+    line-height: 150%;
+    margin-top: 10px;
+}
+
+.headerIconDiv:hover {
+    cursor: pointer;
+    border-radius: 50px;
+    color: #1DA1F2;
+    background-color: #E8F5FE;
+    height: 45px;
+}
+
+.headerIconDiv {
+    margin-top: 5px;
+}
+
+.headerDiv {
+    border-left:   solid 1px #E6ECF0;
+    border-right:  solid 1px #E6ECF0;
+    border-bottom: solid 1px #E6ECF0;
+    height: 55px;
+    cursor: pointer;
+}
+
+.profileTopArrow {
+    font-size: 20px;
+    color: #1DA1F2;
+    margin-top: 15px;
+}

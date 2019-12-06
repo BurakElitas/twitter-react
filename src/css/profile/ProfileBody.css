@@ -1,0 +1,110 @@
+.profileBackgroundPhoto {
+    height: 180px;
+    width: 100%;
+    background-color: green;
+}
+.kapsayici{
+    border:0.25px solid lightgrey !important;
+    padding:2px;
+}
+.retweet{
+    color:green;
+}
+
+.fa-retweet:hover{
+    background-color: #DEF2EB;
+    border-radius: 10px;
+}
+.fa-comment:hover{
+    background-color:#DFEFFA ;
+    border-radius: 10px;
+    color:#42B0F4;
+
+}
+.begeni{
+    color:#E76B93;
+}
+
+.fa-heart:hover{ 
+    color:#E76B93;
+    border-radius: 10px;
+}
+
+
+
+.profilePhoto {
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    margin-top: -75px;
+    background-color: red;
+    margin-left: 15px;
+    border: solid 5px white;
+}
+
+.editButton {
+    float: right;
+    margin-top: -60px;
+    border: solid 1px #1A91DA;
+    border-radius: 50px;
+    color: #1A91DA;
+    background-color: #fff;
+    cursor: pointer;
+    height: 35px;
+    font-weight: bold;
+}
+
+.editButton:hover {
+    background-color: #E8F5FE;
+}
+
+.profileName {
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.userName {
+    color: #8996A2;
+}
+
+.userProfileInfo {
+    color: #788895;
+    font-size: 14px;
+    float: left;
+}
+
+.mediaDiv {
+    background-color: white;
+    color: #26A5F3;
+    font-weight: bold;
+    height: 50px;
+    cursor: pointer;
+    text-align: center;
+    
+}
+
+.mediaDiv:hover {
+    background-color: #E8F5FE;
+    border-bottom: solid 3px #26A5F3;
+}
+
+.mediaDivTop {
+    margin-top: 25px;
+}
+
+.followNumber {
+    font-weight: bold;
+}
+
+.followText {
+    color: #778794;
+    font-weight: 400;
+}
+
+.followDiv {
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 15px;
+}
